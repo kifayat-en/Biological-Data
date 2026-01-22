@@ -3,5 +3,5 @@
 <hr>
 
 
-**Overview**
+**Overview**<br>
 *This project focuses on predicting epitope immunogenicity using supervised machine learning algorithms. A carefully cleaned and engineered biological dataset was used to evaluate the ability of different classifiers to distinguish immunogenic vs non-immunogenic epitopes.*
